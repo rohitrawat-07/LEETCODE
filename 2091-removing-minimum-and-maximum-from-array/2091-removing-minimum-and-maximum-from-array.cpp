@@ -20,8 +20,6 @@ public:
         }
         int x = min(minidx , maxidx);
         int y = max(minidx , maxidx);
-           int a = x+1;
-           int b = n-y;
-           return min(a+b ,min(y+1 , n-x));   
+           return min(x+1+n-y ,min(y+1 , n-x));   
     }
 };
