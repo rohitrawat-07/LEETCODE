@@ -13,6 +13,7 @@ Leetcode Questions
 | ------- | ------- |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rohitrawat-07/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/rohitrawat-07/LEETCODE/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/rohitrawat-07/LEETCODE/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,8 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/rohitrawat-07/LEETCODE/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 <!---LeetCode Topics End-->
