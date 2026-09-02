@@ -13,7 +13,6 @@ public:
     }
     vector<int> closestPrimes(int left, int right) {
         vector<int> ans;
-        vector<int> ans2;
         int minidx = 0;
         int min = INT_MAX;
         for (int i = left; i <= right; i++) {
@@ -27,15 +26,13 @@ public:
         if(ans.size() == 2){
             return {ans[0] , ans[1]};
         }
-        for (int i = 1; i < ans.size(); i++) {
-            ans2.push_back(ans[i] - ans[i - 1]);
+        for (int i = 1; i < ans.size(); i++) { 
+           if(ans[i] - ans[i - 1] < min){  
+            min = ans[i] - ans[i - 1];
+            minidx = i-1;
+           }
         }
-        for (int i = 0; i < ans2.size(); i++) {
-            if (ans2[i] < min) {
-                min = ans2[i];
-                minidx = i;
-            }
-        }
+    
     
     return {ans[minidx], ans[minidx + 1]};
 }
