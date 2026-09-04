@@ -73,6 +73,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -81,6 +82,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -89,6 +91,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -112,6 +115,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
