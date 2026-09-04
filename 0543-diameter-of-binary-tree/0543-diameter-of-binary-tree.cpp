@@ -11,28 +11,20 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root){
-        if(root == NULL){
+
+    int height(TreeNode* root, int& diameter) {
+        if (root == NULL) {
             return 0;
         }
-        return 1 + max(height(root->left) , height(root->right));
-
+        int leftHeight = height(root->left, diameter);
+        int rightHeight = height(root->right, diameter);
+        diameter = max(diameter, leftHeight + rightHeight);
+        return 1 + max(leftHeight, rightHeight);
     }
-     void func(TreeNode* root , int& mxx){
-      if(root == NULL){
-        return;
-      }
-       mxx = max(height(root->left)+height(root->right) , mxx);
-       func(root->right , mxx);
-       func(root->left , mxx);
-     }
-    int diameterOfBinaryTree(TreeNode* root) {
-            if(root == NULL){
-                return 0;
-            }          
-       int mxx = INT_MIN;
-        func(root , mxx);
-        return mxx;
-    
+        int diameterOfBinaryTree(TreeNode* root) {
+        int diameter = 0;
+        height(root, diameter);
+        return diameter;
     }
 };
+
