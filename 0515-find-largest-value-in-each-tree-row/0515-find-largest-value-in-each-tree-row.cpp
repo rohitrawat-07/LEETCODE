@@ -1,5 +1,5 @@
 /**
- * Definition for a binary tree node.
+ * kya ree lodu....
  * struct TreeNode {
  *     int val;
  *     TreeNode *left;
@@ -11,49 +11,43 @@
  */
 class Solution {
 public:
-   int levels(TreeNode* root){
-   if(root == NULL){
-   return 0;
-   }
-   return 1+max(levels(root->left) , levels(root->right));
-   }
-  
+     void BFS(TreeNode* root , vector<int>& ans) {
 
-     void func(TreeNode* root , int curr , int level ,int& mxx){
-     if(root == NULL){
+    if (root == NULL) {
         return;
-     }
-     if(curr == level && root->val > mxx){
-        mxx = root->val;
-        return;
-     }
-     func(root->left , curr+1, level,  mxx);
-     func(root->right , curr+1, level, mxx);
-     }
+    }
 
+    queue<TreeNode*> q;
+    q.push(root);
 
-       void help(TreeNode* root, vector<int>& ans){
-       int n = levels(root);
-       for(int i = 1; i <=n; i++){
+    while (!q.empty()) {
+
+        int n = q.size();  
         int mxx = INT_MIN;
-       func(root , 1 , i, mxx);
+
+        for (int i = 0; i < n; i++) {
+
+            TreeNode* curr = q.front();
+            q.pop();
+
+           if(curr->val > mxx){
+                mxx = curr->val;
+            }
+            if (curr->left != NULL) {
+                q.push(curr->left);
+            }
+
+            if (curr->right != NULL) {
+                q.push(curr->right);
+            }
+        }
+
        ans.push_back(mxx);
     }
-       }
-
-    vector<int> largestValues(TreeNode* root) {
+}
+     vector<int> largestValues(TreeNode* root) {
         vector<int> ans;
-        help(root , ans);
-        return ans;
+      BFS(root , ans);
+      return ans;
     }
 };
-
-
-
-
-
-
-
-
-
-
