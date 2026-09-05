@@ -81,6 +81,7 @@ Leetcode Questions
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Leetcode Questions
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ Leetcode Questions
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
