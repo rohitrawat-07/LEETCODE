@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void func(TreeNode* root , vector<int> ans, vector<vector<int>> & anss , int sum , int targetSum){
+    void func(TreeNode* root , vector<int>& ans, vector<vector<int>> & anss , int sum , int targetSum){
         if(root == nullptr){
             return;
         }
@@ -20,12 +20,15 @@ public:
         if(root->left == NULL && root->right == NULL){
             if(sum == targetSum){
                 anss.push_back(ans);
-                return;
             }
+            ans.pop_back();
+            return;
+
         }
         func(root->left , ans , anss,sum,targetSum);
         func(root->right , ans , anss,sum,targetSum);
-       
+        ans.pop_back();
+
 
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
