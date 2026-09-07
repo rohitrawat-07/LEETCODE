@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-     void func(TreeNode* root , int sum , int& level , int& ans , int& maxSum){
+     void func(TreeNode* root ,int& level , int& ans , int& maxSum){
         if(root == NULL){
             return;
         }
@@ -42,7 +42,7 @@ public:
         int ans = 0;
         int level = 0;
         int maxSum = INT_MIN;
-        func(root , 0 , level , ans , maxSum);
+        func(root , level , ans , maxSum);
         return ans;
     }
 };
