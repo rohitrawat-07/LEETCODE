@@ -84,6 +84,7 @@ Leetcode Questions
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
@@ -99,6 +100,7 @@ Leetcode Questions
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
@@ -114,6 +116,7 @@ Leetcode Questions
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
