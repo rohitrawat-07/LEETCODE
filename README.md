@@ -8,6 +8,7 @@ Leetcode Questions
 | ------- | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rohitrawat-07/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Leetcode Questions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/rohitrawat-07/LEETCODE/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -160,4 +162,12 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
