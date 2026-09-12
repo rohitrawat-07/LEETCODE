@@ -88,6 +88,7 @@ Leetcode Questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohitrawat-07/LEETCODE/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -107,6 +108,7 @@ Leetcode Questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohitrawat-07/LEETCODE/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -126,6 +128,7 @@ Leetcode Questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohitrawat-07/LEETCODE/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
