@@ -37,6 +37,7 @@ Leetcode Questions
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/rohitrawat-07/LEETCODE/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
