@@ -41,6 +41,7 @@ Leetcode Questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/rohitrawat-07/LEETCODE/tree/main/0223-rectangle-area/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/rohitrawat-07/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/rohitrawat-07/LEETCODE/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -243,4 +244,8 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/rohitrawat-07/LEETCODE/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
