@@ -99,6 +99,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rohitrawat-07/LEETCODE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ Leetcode Questions
 | [0110-balanced-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -135,6 +137,7 @@ Leetcode Questions
 | [0110-balanced-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0508-most-frequent-subtree-sum/) | Medium |
@@ -161,6 +164,7 @@ Leetcode Questions
 | [0110-balanced-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -202,6 +206,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
