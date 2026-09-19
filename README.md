@@ -33,6 +33,7 @@ Leetcode Questions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0817-linked-list-components](https://github.com/rohitrawat-07/LEETCODE/tree/main/0817-linked-list-components/) | Medium |
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -47,6 +48,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/rohitrawat-07/LEETCODE/tree/main/0223-rectangle-area/) | Medium |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/rohitrawat-07/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/rohitrawat-07/LEETCODE/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -220,6 +222,7 @@ Leetcode Questions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## DP on Trees
