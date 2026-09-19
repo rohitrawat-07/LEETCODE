@@ -102,6 +102,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0725-split-linked-list-in-parts](https://github.com/rohitrawat-07/LEETCODE/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0817-linked-list-components](https://github.com/rohitrawat-07/LEETCODE/tree/main/0817-linked-list-components/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rohitrawat-07/LEETCODE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Tree
