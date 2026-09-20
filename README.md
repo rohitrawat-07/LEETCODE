@@ -92,6 +92,7 @@ Leetcode Questions
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2429-minimize-xor](https://github.com/rohitrawat-07/LEETCODE/tree/main/2429-minimize-xor/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/rohitrawat-07/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -278,6 +279,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [2429-minimize-xor](https://github.com/rohitrawat-07/LEETCODE/tree/main/2429-minimize-xor/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
