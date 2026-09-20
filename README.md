@@ -9,6 +9,7 @@ Leetcode Questions
 | [0508-most-frequent-subtree-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0817-linked-list-components](https://github.com/rohitrawat-07/LEETCODE/tree/main/0817-linked-list-components/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rohitrawat-07/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -37,6 +38,7 @@ Leetcode Questions
 | [0817-linked-list-components](https://github.com/rohitrawat-07/LEETCODE/tree/main/0817-linked-list-components/) | Medium |
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -96,6 +98,7 @@ Leetcode Questions
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/rohitrawat-07/LEETCODE/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/rohitrawat-07/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Two Pointers
