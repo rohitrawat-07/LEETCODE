@@ -19,12 +19,8 @@ public:
       if(root->val >= mxx){
         count++;
       }
-      if(root->left == NULL && root->right == NULL){
-        return;
-      }
       func(root->left , mxx , count);
       func(root->right , mxx , count);
-       return;
 
     }
     int goodNodes(TreeNode* root) {
