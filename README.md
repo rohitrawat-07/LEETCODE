@@ -157,6 +157,7 @@ Leetcode Questions
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1609-even-odd-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -184,6 +185,7 @@ Leetcode Questions
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -214,6 +216,7 @@ Leetcode Questions
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1609-even-odd-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -245,6 +248,7 @@ Leetcode Questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1609-even-odd-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
