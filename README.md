@@ -46,6 +46,7 @@ Leetcode Questions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0506-relative-ranks](https://github.com/rohitrawat-07/LEETCODE/tree/main/0506-relative-ranks/) | Easy |
 | [0817-linked-list-components](https://github.com/rohitrawat-07/LEETCODE/tree/main/0817-linked-list-components/) | Medium |
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -119,6 +120,7 @@ Leetcode Questions
 | [0016-3sum-closest](https://github.com/rohitrawat-07/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0506-relative-ranks](https://github.com/rohitrawat-07/LEETCODE/tree/main/0506-relative-ranks/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/rohitrawat-07/LEETCODE/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
@@ -337,6 +339,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0506-relative-ranks](https://github.com/rohitrawat-07/LEETCODE/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
