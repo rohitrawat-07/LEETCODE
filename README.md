@@ -12,6 +12,7 @@ Leetcode Questions
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rohitrawat-07/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohitrawat-07/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -53,6 +54,7 @@ Leetcode Questions
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohitrawat-07/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -269,6 +271,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -308,6 +311,7 @@ Leetcode Questions
 | [0701-insert-into-a-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +333,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
