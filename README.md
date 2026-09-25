@@ -6,6 +6,7 @@ Leetcode Questions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -28,6 +29,7 @@ Leetcode Questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
@@ -412,5 +414,10 @@ Leetcode Questions
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
