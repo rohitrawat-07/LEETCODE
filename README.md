@@ -9,6 +9,7 @@ Leetcode Questions
 | [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0508-most-frequent-subtree-sum/) | Medium |
+| [0648-replace-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0817-linked-list-components](https://github.com/rohitrawat-07/LEETCODE/tree/main/0817-linked-list-components/) | Medium |
@@ -31,6 +32,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0648-replace-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
@@ -61,6 +63,7 @@ Leetcode Questions
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/rohitrawat-07/LEETCODE/tree/main/0506-relative-ranks/) | Easy |
+| [0648-replace-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0817-linked-list-components](https://github.com/rohitrawat-07/LEETCODE/tree/main/0817-linked-list-components/) | Medium |
@@ -418,6 +421,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0648-replace-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Design
 | Problem Name | Difficulty |
