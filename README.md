@@ -186,6 +186,7 @@ Leetcode Questions
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -218,6 +219,7 @@ Leetcode Questions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
@@ -245,6 +247,7 @@ Leetcode Questions
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -340,6 +343,7 @@ Leetcode Questions
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
