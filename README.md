@@ -7,6 +7,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0508-most-frequent-subtree-sum/) | Medium |
@@ -63,6 +64,7 @@ Leetcode Questions
 | [0016-3sum-closest](https://github.com/rohitrawat-07/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -191,6 +193,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -253,6 +256,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -342,6 +346,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
