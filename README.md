@@ -38,6 +38,7 @@ Leetcode Questions
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/rohitrawat-07/LEETCODE/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rohitrawat-07/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -385,6 +386,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,4 +440,5 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
