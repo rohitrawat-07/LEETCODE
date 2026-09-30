@@ -38,6 +38,7 @@ Leetcode Questions
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/rohitrawat-07/LEETCODE/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
@@ -400,6 +401,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0155-min-stack](https://github.com/rohitrawat-07/LEETCODE/tree/main/0155-min-stack/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Heap (Priority Queue)
@@ -455,6 +457,7 @@ Leetcode Questions
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
