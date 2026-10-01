@@ -17,6 +17,7 @@ Leetcode Questions
 | [0817-linked-list-components](https://github.com/rohitrawat-07/LEETCODE/tree/main/0817-linked-list-components/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -83,6 +84,7 @@ Leetcode Questions
 | [0973-k-closest-points-to-origin](https://github.com/rohitrawat-07/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -110,6 +112,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/rohitrawat-07/LEETCODE/tree/main/0223-rectangle-area/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/rohitrawat-07/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rohitrawat-07/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohitrawat-07/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -326,6 +329,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -395,6 +399,7 @@ Leetcode Questions
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Stack
