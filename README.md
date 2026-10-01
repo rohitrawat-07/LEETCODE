@@ -99,6 +99,7 @@ Leetcode Questions
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rohitrawat-07/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/rohitrawat-07/LEETCODE/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -402,6 +403,7 @@ Leetcode Questions
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1695-maximum-erasure-value/) | Medium |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
