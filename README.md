@@ -10,6 +10,7 @@ Leetcode Questions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/rohitrawat-07/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0648-replace-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -37,6 +38,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/rohitrawat-07/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0648-replace-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
@@ -405,6 +407,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/rohitrawat-07/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
