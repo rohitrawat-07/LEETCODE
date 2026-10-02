@@ -3,13 +3,11 @@ public:
     int longestValidParentheses(string s) {
         stack<int> st;
         int n = s.size();
-        int count = 0;
         int num = 0;
         int mxx = INT_MIN;
         for(int i = 0; i < n; i++){
             if(!st.empty() && s[i] == ')'){
                 if(s[st.top()] == '('){
-                    count+=2;
                      st.pop();
                 }else{
                     st.push(i);
