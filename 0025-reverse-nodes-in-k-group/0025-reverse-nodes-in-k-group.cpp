@@ -24,7 +24,8 @@ public:
     }
      ListNode* prevTail = tail;
 
-    for(int i = k; i+k <= size; i+=k){
+    for(int i = k; i < size; i+=k){
+        if(i+k > size) break;
       ListNode* temp1 = temp;
        ListNode* thisTail = temp1;
        ListNode* x = NULL;
