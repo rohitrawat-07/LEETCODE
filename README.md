@@ -198,6 +198,7 @@ Leetcode Questions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rohitrawat-07/LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/rohitrawat-07/LEETCODE/tree/main/0725-split-linked-list-in-parts/) | Medium |
@@ -358,6 +359,7 @@ Leetcode Questions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rohitrawat-07/LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
