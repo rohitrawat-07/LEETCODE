@@ -78,6 +78,7 @@ Leetcode Questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/rohitrawat-07/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -342,6 +343,7 @@ Leetcode Questions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -384,6 +386,7 @@ Leetcode Questions
 | [0099-recover-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -414,6 +417,7 @@ Leetcode Questions
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/rohitrawat-07/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
