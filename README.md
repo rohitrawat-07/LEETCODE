@@ -99,6 +99,7 @@ Leetcode Questions
 | [2121-intervals-between-identical-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -338,6 +339,7 @@ Leetcode Questions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## DP on Trees
@@ -381,6 +383,7 @@ Leetcode Questions
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +411,7 @@ Leetcode Questions
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 ## Stack
