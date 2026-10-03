@@ -28,9 +28,8 @@ public:
             }
         }
         ans.push_back(0);
-        reverse(ans.begin() , ans.end());
         for(int i = 0; i < ans.size()-1; i++){
-         mxx = max(ans[i+1]-ans[i] , mxx);
+         mxx = max(abs(ans[i+1]-ans[i] ), mxx);
         }
          if(mxx % 2 != 0){
             return mxx-1;
