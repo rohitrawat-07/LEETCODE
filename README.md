@@ -120,6 +120,7 @@ Leetcode Questions
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rohitrawat-07/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/rohitrawat-07/LEETCODE/tree/main/3618-split-array-by-prime-indices/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -174,6 +175,7 @@ Leetcode Questions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2429-minimize-xor](https://github.com/rohitrawat-07/LEETCODE/tree/main/2429-minimize-xor/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/rohitrawat-07/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@ Leetcode Questions
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/rohitrawat-07/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
