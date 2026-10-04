@@ -284,6 +284,7 @@ Leetcode Questions
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
@@ -352,6 +353,7 @@ Leetcode Questions
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1609-even-odd-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -517,4 +519,12 @@ Leetcode Questions
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
