@@ -49,6 +49,7 @@ Leetcode Questions
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitrawat-07/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -171,6 +172,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitrawat-07/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
@@ -454,6 +456,7 @@ Leetcode Questions
 | [0032-longest-valid-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0155-min-stack](https://github.com/rohitrawat-07/LEETCODE/tree/main/0155-min-stack/) | Medium |
 | [0856-score-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitrawat-07/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -515,6 +518,7 @@ Leetcode Questions
 | [0022-generate-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitrawat-07/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
