@@ -278,6 +278,7 @@ Leetcode Questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohitrawat-07/LEETCODE/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -354,6 +355,7 @@ Leetcode Questions
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -533,10 +535,12 @@ Leetcode Questions
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
