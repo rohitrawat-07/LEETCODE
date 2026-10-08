@@ -4,14 +4,18 @@ public:
      
         vis[src] = true;
         recpath[src] = true;
-        for(int v : adj[src]){
-            if(!vis[v]){
-                if(cycledetection(v , vis , recpath , adj)){
-                    return true;
-                }
-            }else{
-                if(recpath[v]){
-                    return true;
+        for(int i = 0; i < adj.size(); i++){
+            int u = adj[i][1];
+            int v = adj[i][0];
+            if(u == src){
+                if(!vis[v]){
+                   if( cycledetection(v , vis , recpath , adj)){
+                     return true;
+                   }
+                }else{
+                    if(recpath[v]){
+                        return true;
+                    }
                 }
             }
         }
@@ -22,18 +26,11 @@ public:
     
     bool canFinish(int numCourses, vector<vector<int>>& pre) {
         int n = pre.size(); 
-        vector<vector<int>> adj(numCourses);
-        for(int i = 0; i <  n; i++){
-           int u = pre[i][0];
-           int v = pre[i][1];
-           adj[u].push_back(v);
-        }
-
         vector<bool> vis( numCourses , false);
         vector<bool> recpath( numCourses , false);
         for(int i = 0; i <  numCourses; i++){
             if(!vis[i]){
-                if(cycledetection(i , vis , recpath , adj)){
+                if(cycledetection(i , vis , recpath , pre)){
                     return false;
                 }
             }
