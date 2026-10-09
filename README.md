@@ -132,6 +132,7 @@ Leetcode Questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/rohitrawat-07/LEETCODE/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0223-rectangle-area](https://github.com/rohitrawat-07/LEETCODE/tree/main/0223-rectangle-area/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/rohitrawat-07/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -222,6 +223,7 @@ Leetcode Questions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohitrawat-07/LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -396,6 +398,7 @@ Leetcode Questions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohitrawat-07/LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
