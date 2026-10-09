@@ -3,41 +3,24 @@ public:
     int minInsertions(string s) {
         int n = s.size();
         stack<char> st;
+        int count = 0;
         for (int i = 0; i < n; i++) {
-            if (!st.empty() && s[i] == ')' && st.top() == ')') {
-                char ch = st.top();
-                st.pop();
-                if (!st.empty() && st.top() == '(') {
-                    st.pop();
-                    st.push('#');         
-                    continue;
-                } else {
-                    st.push(ch);
-                    st.push(s[i]);
-                    continue;
+            if (s[i] == '(') {
+                st.push('(');
+            } else {
+                if (i + 1 < n && s[i + 1] == ')'){
+                   i++; 
+                }   
+                else {
+                    count++;
                 }
-            }
-            st.push(s[i]);              
+            if(!st.empty()){
+                st.pop();
+            } else{
+                count++;
+            }                          
         }
-        string t;
-        while (!st.empty()) {
-            t.push_back(st.top());
-            st.pop();
         }
-        reverse(t.begin(), t.end());
-
-        int open = 0, count = 0, m = t.size();
-        for (int i = 0; i < m; i++) {
-            if (t[i] == '(') {
-                open++;
-            } else if (t[i] == ')') {
-                if (i + 1 < m && t[i + 1] == ')') i++;   
-                else count++;                            
-
-                if (open > 0) open--;
-                else count++;                          
-            }
-        }
-        return count + 2 * open;          
+        return count + 2 * st.size();                   
     }
 };
