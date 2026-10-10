@@ -61,6 +61,7 @@ Leetcode Questions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1759-count-number-of-homogenous-substrings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rohitrawat-07/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -145,6 +146,7 @@ Leetcode Questions
 | [1401-circle-and-rectangle-overlapping](https://github.com/rohitrawat-07/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rohitrawat-07/LEETCODE/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1759-count-number-of-homogenous-substrings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohitrawat-07/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
