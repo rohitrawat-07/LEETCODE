@@ -115,6 +115,7 @@ Leetcode Questions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohitrawat-07/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rohitrawat-07/LEETCODE/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
@@ -148,6 +149,7 @@ Leetcode Questions
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohitrawat-07/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rohitrawat-07/LEETCODE/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/rohitrawat-07/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
@@ -227,6 +229,7 @@ Leetcode Questions
 | [0018-4sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rohitrawat-07/LEETCODE/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/rohitrawat-07/LEETCODE/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/rohitrawat-07/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -472,6 +475,7 @@ Leetcode Questions
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rohitrawat-07/LEETCODE/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
@@ -557,6 +561,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rohitrawat-07/LEETCODE/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
