@@ -57,6 +57,7 @@ Leetcode Questions
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/rohitrawat-07/LEETCODE/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1513-number-of-substrings-with-only-1s](https://github.com/rohitrawat-07/LEETCODE/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -141,6 +142,7 @@ Leetcode Questions
 | [0973-k-closest-points-to-origin](https://github.com/rohitrawat-07/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rohitrawat-07/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1513-number-of-substrings-with-only-1s](https://github.com/rohitrawat-07/LEETCODE/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohitrawat-07/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
