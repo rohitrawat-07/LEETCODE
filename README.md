@@ -124,6 +124,7 @@ Leetcode Questions
 | [2348-number-of-zero-filled-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
@@ -420,6 +421,7 @@ Leetcode Questions
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
