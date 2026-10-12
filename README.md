@@ -132,6 +132,7 @@ Leetcode Questions
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rohitrawat-07/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/rohitrawat-07/LEETCODE/tree/main/3618-split-array-by-prime-indices/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -316,6 +317,7 @@ Leetcode Questions
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -390,6 +392,7 @@ Leetcode Questions
 | [1609-even-odd-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1609-even-odd-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,6 +466,7 @@ Leetcode Questions
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,6 +580,7 @@ Leetcode Questions
 | [0785-is-graph-bipartite](https://github.com/rohitrawat-07/LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
