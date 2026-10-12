@@ -108,6 +108,7 @@ Leetcode Questions
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -309,6 +310,7 @@ Leetcode Questions
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -388,6 +390,7 @@ Leetcode Questions
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
@@ -467,6 +470,7 @@ Leetcode Questions
 | [0073-set-matrix-zeroes](https://github.com/rohitrawat-07/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
@@ -583,6 +587,7 @@ Leetcode Questions
 | [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/rohitrawat-07/LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
