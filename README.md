@@ -323,6 +323,7 @@ Leetcode Questions
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -402,6 +403,7 @@ Leetcode Questions
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1609-even-odd-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -599,6 +601,7 @@ Leetcode Questions
 | [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
@@ -610,6 +613,7 @@ Leetcode Questions
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
