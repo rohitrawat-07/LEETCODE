@@ -90,6 +90,7 @@ Leetcode Questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/rohitrawat-07/LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -293,6 +294,7 @@ Leetcode Questions
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0130-surrounded-regions](https://github.com/rohitrawat-07/LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/rohitrawat-07/LEETCODE/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -384,6 +386,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rohitrawat-07/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0130-surrounded-regions](https://github.com/rohitrawat-07/LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/rohitrawat-07/LEETCODE/tree/main/0207-course-schedule/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -471,6 +474,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rohitrawat-07/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0130-surrounded-regions](https://github.com/rohitrawat-07/LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
 | [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
@@ -587,6 +591,7 @@ Leetcode Questions
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/rohitrawat-07/LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/rohitrawat-07/LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
