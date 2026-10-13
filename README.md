@@ -105,6 +105,7 @@ Leetcode Questions
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/rohitrawat-07/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -306,6 +307,7 @@ Leetcode Questions
 | [0785-is-graph-bipartite](https://github.com/rohitrawat-07/LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
+| [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rohitrawat-07/LEETCODE/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -389,6 +391,7 @@ Leetcode Questions
 | [0785-is-graph-bipartite](https://github.com/rohitrawat-07/LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
+| [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -470,6 +473,7 @@ Leetcode Questions
 | [0073-set-matrix-zeroes](https://github.com/rohitrawat-07/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
+| [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
@@ -587,6 +591,7 @@ Leetcode Questions
 | [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/rohitrawat-07/LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
+| [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
