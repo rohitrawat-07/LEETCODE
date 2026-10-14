@@ -14,6 +14,7 @@ Leetcode Questions
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/rohitrawat-07/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0508-most-frequent-subtree-sum/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0648-replace-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
@@ -97,6 +98,7 @@ Leetcode Questions
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/rohitrawat-07/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/rohitrawat-07/LEETCODE/tree/main/0506-relative-ranks/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0648-replace-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -214,6 +216,7 @@ Leetcode Questions
 | [0049-group-anagrams](https://github.com/rohitrawat-07/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/rohitrawat-07/LEETCODE/tree/main/0506-relative-ranks/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
@@ -234,6 +237,7 @@ Leetcode Questions
 | [0015-3sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/rohitrawat-07/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0018-4sum/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rohitrawat-07/LEETCODE/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -459,6 +463,7 @@ Leetcode Questions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/rohitrawat-07/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
