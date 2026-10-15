@@ -24,6 +24,7 @@ Leetcode Questions
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rohitrawat-07/LEETCODE/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -60,6 +61,7 @@ Leetcode Questions
 | [1451-rearrange-words-in-a-sentence](https://github.com/rohitrawat-07/LEETCODE/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rohitrawat-07/LEETCODE/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rohitrawat-07/LEETCODE/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
@@ -114,6 +116,7 @@ Leetcode Questions
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rohitrawat-07/LEETCODE/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
@@ -226,6 +229,7 @@ Leetcode Questions
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/rohitrawat-07/LEETCODE/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rohitrawat-07/LEETCODE/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
