@@ -671,4 +671,8 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/rohitrawat-07/LEETCODE/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
