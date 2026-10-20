@@ -6,6 +6,7 @@ Leetcode Questions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/rohitrawat-07/LEETCODE/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/rohitrawat-07/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/rohitrawat-07/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -90,6 +91,7 @@ Leetcode Questions
 | [0015-3sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/rohitrawat-07/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0018-4sum/) | Medium |
+| [0036-valid-sudoku](https://github.com/rohitrawat-07/LEETCODE/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/rohitrawat-07/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/rohitrawat-07/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -494,6 +496,7 @@ Leetcode Questions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/rohitrawat-07/LEETCODE/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/rohitrawat-07/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/rohitrawat-07/LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
