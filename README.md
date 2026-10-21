@@ -109,6 +109,7 @@ Leetcode Questions
 | [0648-replace-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0817-linked-list-components](https://github.com/rohitrawat-07/LEETCODE/tree/main/0817-linked-list-components/) | Medium |
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -207,6 +208,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitrawat-07/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -233,6 +235,7 @@ Leetcode Questions
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/rohitrawat-07/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -539,6 +542,7 @@ Leetcode Questions
 | [0020-valid-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0155-min-stack](https://github.com/rohitrawat-07/LEETCODE/tree/main/0155-min-stack/) | Medium |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0856-score-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitrawat-07/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -682,4 +686,8 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/rohitrawat-07/LEETCODE/tree/main/0175-combine-two-tables/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 <!---LeetCode Topics End-->
