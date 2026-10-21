@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool func(vector<int>& nums, int n) {
-        int chunksCount = 0;
         int mxx = INT_MIN;
         for (int i = 0; i < nums.size(); i += n) {
             int count = 0;
@@ -32,11 +31,9 @@ public:
     int sortableIntegers(vector<int>& nums) {
         int n = nums.size();
         vector<int> divs;
-        int sum = 0;
         for (int i = 1; i <= nums.size(); i++) {
             if (n % i == 0) {
                 divs.push_back(i);
-                sum += i;
             }
         }
          int ans = 0;
