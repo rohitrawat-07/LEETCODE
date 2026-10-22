@@ -332,6 +332,7 @@ Leetcode Questions
 | [0543-diameter-of-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0743-network-delay-time](https://github.com/rohitrawat-07/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/rohitrawat-07/LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/rohitrawat-07/LEETCODE/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
@@ -420,6 +421,7 @@ Leetcode Questions
 | [0210-course-schedule-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohitrawat-07/LEETCODE/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/rohitrawat-07/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/rohitrawat-07/LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/rohitrawat-07/LEETCODE/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
@@ -563,6 +565,7 @@ Leetcode Questions
 | [0506-relative-ranks](https://github.com/rohitrawat-07/LEETCODE/tree/main/0506-relative-ranks/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rohitrawat-07/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0743-network-delay-time](https://github.com/rohitrawat-07/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/rohitrawat-07/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
@@ -644,6 +647,7 @@ Leetcode Questions
 | [0207-course-schedule](https://github.com/rohitrawat-07/LEETCODE/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/rohitrawat-07/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/rohitrawat-07/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/rohitrawat-07/LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/rohitrawat-07/LEETCODE/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
@@ -695,4 +699,12 @@ Leetcode Questions
 | ------- | ------- |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/rohitrawat-07/LEETCODE/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/rohitrawat-07/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/rohitrawat-07/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
