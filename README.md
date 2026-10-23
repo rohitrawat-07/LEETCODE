@@ -126,6 +126,7 @@ Leetcode Questions
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rohitrawat-07/LEETCODE/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rohitrawat-07/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/rohitrawat-07/LEETCODE/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -217,6 +218,7 @@ Leetcode Questions
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rohitrawat-07/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2429-minimize-xor](https://github.com/rohitrawat-07/LEETCODE/tree/main/2429-minimize-xor/) | Medium |
@@ -248,6 +250,7 @@ Leetcode Questions
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rohitrawat-07/LEETCODE/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rohitrawat-07/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
