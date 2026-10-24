@@ -73,6 +73,7 @@ Leetcode Questions
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rohitrawat-07/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/rohitrawat-07/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/rohitrawat-07/LEETCODE/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Counting
@@ -177,6 +178,7 @@ Leetcode Questions
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rohitrawat-07/LEETCODE/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2409-count-days-spent-together](https://github.com/rohitrawat-07/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/rohitrawat-07/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/rohitrawat-07/LEETCODE/tree/main/3021-alice-and-bob-playing-flower-game/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
