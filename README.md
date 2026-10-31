@@ -40,6 +40,7 @@ Leetcode Questions
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
@@ -145,6 +146,7 @@ Leetcode Questions
 | [2348-number-of-zero-filled-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -211,6 +213,7 @@ Leetcode Questions
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/rohitrawat-07/LEETCODE/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Greedy
@@ -262,6 +265,7 @@ Leetcode Questions
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rohitrawat-07/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -587,6 +591,7 @@ Leetcode Questions
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
