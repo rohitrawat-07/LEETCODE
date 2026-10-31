@@ -152,6 +152,7 @@ Leetcode Questions
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rohitrawat-07/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/rohitrawat-07/LEETCODE/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -229,6 +230,7 @@ Leetcode Questions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2429-minimize-xor](https://github.com/rohitrawat-07/LEETCODE/tree/main/2429-minimize-xor/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rohitrawat-07/LEETCODE/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/rohitrawat-07/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -260,6 +262,7 @@ Leetcode Questions
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rohitrawat-07/LEETCODE/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rohitrawat-07/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/rohitrawat-07/LEETCODE/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -530,6 +533,7 @@ Leetcode Questions
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -583,6 +587,7 @@ Leetcode Questions
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
