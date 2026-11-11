@@ -685,6 +685,7 @@ Leetcode Questions
 | [0802-find-eventual-safe-states](https://github.com/rohitrawat-07/LEETCODE/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Graph Coloring
@@ -707,6 +708,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/rohitrawat-07/LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
