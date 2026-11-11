@@ -122,6 +122,7 @@ Leetcode Questions
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/rohitrawat-07/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/rohitrawat-07/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
@@ -451,6 +452,7 @@ Leetcode Questions
 | [0802-find-eventual-safe-states](https://github.com/rohitrawat-07/LEETCODE/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rohitrawat-07/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
+| [0994-rotting-oranges](https://github.com/rohitrawat-07/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -540,6 +542,7 @@ Leetcode Questions
 | [0130-surrounded-regions](https://github.com/rohitrawat-07/LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/rohitrawat-07/LEETCODE/tree/main/0835-image-overlap/) | Medium |
+| [0994-rotting-oranges](https://github.com/rohitrawat-07/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
