@@ -152,6 +152,7 @@ Leetcode Questions
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rohitrawat-07/LEETCODE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
