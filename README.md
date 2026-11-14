@@ -662,6 +662,7 @@ Leetcode Questions
 | [0022-generate-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rohitrawat-07/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/rohitrawat-07/LEETCODE/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rohitrawat-07/LEETCODE/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -691,6 +692,7 @@ Leetcode Questions
 | [0886-possible-bipartition](https://github.com/rohitrawat-07/LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/rohitrawat-07/LEETCODE/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/rohitrawat-07/LEETCODE/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -708,6 +710,7 @@ Leetcode Questions
 | [0207-course-schedule](https://github.com/rohitrawat-07/LEETCODE/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/rohitrawat-07/LEETCODE/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/rohitrawat-07/LEETCODE/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -743,8 +746,10 @@ Leetcode Questions
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/rohitrawat-07/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rohitrawat-07/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/rohitrawat-07/LEETCODE/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/rohitrawat-07/LEETCODE/tree/main/0743-network-delay-time/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/rohitrawat-07/LEETCODE/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
