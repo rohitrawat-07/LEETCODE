@@ -131,6 +131,7 @@ Leetcode Questions
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rohitrawat-07/LEETCODE/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rohitrawat-07/LEETCODE/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -181,6 +182,7 @@ Leetcode Questions
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rohitrawat-07/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rohitrawat-07/LEETCODE/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohitrawat-07/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
@@ -472,6 +474,7 @@ Leetcode Questions
 | [0209-minimum-size-subarray-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -662,6 +665,7 @@ Leetcode Questions
 | [0022-generate-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rohitrawat-07/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/rohitrawat-07/LEETCODE/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rohitrawat-07/LEETCODE/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Union-Find
