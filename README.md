@@ -74,6 +74,7 @@ Leetcode Questions
 | [1759-count-number-of-homogenous-substrings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rohitrawat-07/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/rohitrawat-07/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -219,6 +220,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
