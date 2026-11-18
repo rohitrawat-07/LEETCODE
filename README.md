@@ -77,6 +77,7 @@ Leetcode Questions
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/rohitrawat-07/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rohitrawat-07/LEETCODE/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/rohitrawat-07/LEETCODE/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Counting
