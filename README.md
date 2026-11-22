@@ -24,6 +24,7 @@ Leetcode Questions
 | [0930-binary-subarrays-with-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rohitrawat-07/LEETCODE/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rohitrawat-07/LEETCODE/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -63,6 +64,7 @@ Leetcode Questions
 | [1021-remove-outermost-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/rohitrawat-07/LEETCODE/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohitrawat-07/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rohitrawat-07/LEETCODE/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitrawat-07/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/rohitrawat-07/LEETCODE/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
@@ -129,6 +131,7 @@ Leetcode Questions
 | [1020-number-of-enclaves](https://github.com/rohitrawat-07/LEETCODE/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rohitrawat-07/LEETCODE/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rohitrawat-07/LEETCODE/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/rohitrawat-07/LEETCODE/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -267,6 +270,7 @@ Leetcode Questions
 | [0791-custom-sort-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/0791-custom-sort-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/rohitrawat-07/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rohitrawat-07/LEETCODE/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -532,6 +536,7 @@ Leetcode Questions
 | [0658-find-k-closest-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rohitrawat-07/LEETCODE/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rohitrawat-07/LEETCODE/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rohitrawat-07/LEETCODE/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
