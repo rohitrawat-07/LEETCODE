@@ -154,6 +154,7 @@ Leetcode Questions
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/rohitrawat-07/LEETCODE/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/rohitrawat-07/LEETCODE/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/rohitrawat-07/LEETCODE/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
@@ -247,6 +248,7 @@ Leetcode Questions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2429-minimize-xor](https://github.com/rohitrawat-07/LEETCODE/tree/main/2429-minimize-xor/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/rohitrawat-07/LEETCODE/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rohitrawat-07/LEETCODE/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -616,6 +618,7 @@ Leetcode Questions
 | [1046-last-stone-weight](https://github.com/rohitrawat-07/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1054-distant-barcodes](https://github.com/rohitrawat-07/LEETCODE/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/rohitrawat-07/LEETCODE/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Bucket Sort
