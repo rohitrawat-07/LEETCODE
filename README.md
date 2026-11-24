@@ -165,6 +165,7 @@ Leetcode Questions
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rohitrawat-07/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rohitrawat-07/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -200,6 +201,7 @@ Leetcode Questions
 | [2523-closest-prime-numbers-in-range](https://github.com/rohitrawat-07/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/rohitrawat-07/LEETCODE/tree/main/3021-alice-and-bob-playing-flower-game/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rohitrawat-07/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rohitrawat-07/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/rohitrawat-07/LEETCODE/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rohitrawat-07/LEETCODE/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -215,6 +217,7 @@ Leetcode Questions
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rohitrawat-07/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/rohitrawat-07/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rohitrawat-07/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/rohitrawat-07/LEETCODE/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rohitrawat-07/LEETCODE/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Primality Test
@@ -512,6 +515,7 @@ Leetcode Questions
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/rohitrawat-07/LEETCODE/tree/main/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rohitrawat-07/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Divide and Conquer
@@ -587,6 +591,7 @@ Leetcode Questions
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rohitrawat-07/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
