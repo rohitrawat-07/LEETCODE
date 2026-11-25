@@ -160,6 +160,7 @@ Leetcode Questions
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rohitrawat-07/LEETCODE/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rohitrawat-07/LEETCODE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/rohitrawat-07/DSA/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
@@ -232,6 +233,7 @@ Leetcode Questions
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/rohitrawat-07/LEETCODE/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Greedy
@@ -625,6 +627,7 @@ Leetcode Questions
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/rohitrawat-07/LEETCODE/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3066-minimum-operations-to-exceed-threshold-value-ii/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
