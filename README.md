@@ -140,6 +140,7 @@ Leetcode Questions
 | [1338-reduce-array-size-to-the-half](https://github.com/rohitrawat-07/LEETCODE/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rohitrawat-07/LEETCODE/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1535-find-the-winner-of-an-array-game](https://github.com/rohitrawat-07/LEETCODE/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rohitrawat-07/LEETCODE/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/rohitrawat-07/LEETCODE/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrawat-07/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -234,6 +235,7 @@ Leetcode Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/rohitrawat-07/LEETCODE/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1535-find-the-winner-of-an-array-game](https://github.com/rohitrawat-07/LEETCODE/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/rohitrawat-07/LEETCODE/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
