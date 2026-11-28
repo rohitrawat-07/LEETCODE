@@ -44,6 +44,7 @@ Leetcode Questions
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/rohitrawat-07/LEETCODE/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Leetcode Questions
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rohitrawat-07/LEETCODE/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitrawat-07/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/rohitrawat-07/LEETCODE/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/rohitrawat-07/LEETCODE/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@ Leetcode Questions
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rohitrawat-07/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrawat-07/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rohitrawat-07/LEETCODE/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/rohitrawat-07/LEETCODE/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/rohitrawat-07/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -521,6 +524,7 @@ Leetcode Questions
 | [2778-sum-of-squares-of-special-elements](https://github.com/rohitrawat-07/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rohitrawat-07/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/rohitrawat-07/LEETCODE/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/rohitrawat-07/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
